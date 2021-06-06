@@ -1,6 +1,7 @@
-# WIFI ROBOT CONTROLLER USING ESP 8266 
+# WIFI ROBOT CONTROLLER USING ESP8266 Microcontroller
 ## Requirements
-ESP8266 Based bord
+ESP8266 based bord
 
 Arduino IDE
-
+## License
+GNU GPL V3
