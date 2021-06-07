@@ -2,8 +2,9 @@
 ## Requirements
 ESP8266 microcontroller bord
 
-![Screenshot](https://github.com/neerajppraveen/wifirobot/blob/main/screenshot.jpeg)
+Android Smartphone (To run app)
 
 Arduino IDE
+
 ## License
 GNU GPL V3
