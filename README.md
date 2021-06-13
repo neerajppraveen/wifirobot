@@ -7,4 +7,4 @@ Android Smartphone (To run app)
 Arduino IDE
 
 ## License
-GNU GPL V3
+MIT
